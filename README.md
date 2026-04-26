@@ -6,7 +6,7 @@ A modern, high-end, interactive restaurant website designed to deliver a seamles
 
 ## 🚀 Live Demo
 
-🔗 //rahmaebrahim33.github.io/restaurant-website-urban-gril/
+🔗 https://rahmaebrahim33.github.io/restaurant-website-urban-gril/
 
 ---
 
